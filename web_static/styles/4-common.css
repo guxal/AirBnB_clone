@@ -9,6 +9,8 @@ body {
 	color:#484848;
 	font-size:14px;
 	font-family:Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+	position: relative;
+    min-height: 100vh;
 }
 
 ul {
@@ -18,4 +20,5 @@ ul {
 .container {
 	max-width: 1000px;
 	margin: 30px auto;
+	padding-bottom:2.5rem;
 }
