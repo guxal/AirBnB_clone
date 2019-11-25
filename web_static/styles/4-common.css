@@ -19,6 +19,6 @@ ul {
 
 .container {
 	max-width: 1000px;
-	margin: 30px auto;
+	margin: 30px auto auto;
 	padding-bottom:2.5rem;
 }
